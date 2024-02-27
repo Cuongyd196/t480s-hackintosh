@@ -25,7 +25,7 @@ This is a macOS EFI for the Lenovo ThinkPad T480s, with support for Intel Wi-Fi 
 Follow the "Downloading macOS" section in the Dortania guide to get macOS. ***Support will not be offered if you get macOS from any other source.*** https://dortania.github.io/OpenCore-Install-Guide/installer-guide/windows-install.html#downloading-macos. After installing macOS, you will need to disable force clicking, as by default macOS will register all clicks as force clicks (System Settings -> Trackpad -> Uncheck "Force Click and haptic feedback")
 
 ## Specs of my specific unit
-- CPU: Intel Core i7-8350u
+- CPU: Intel Core i7-8650U
 - GPU: Intel UHD Graphics 620
 - RAM: 24GB (8GB + 16GB)
 - Touchpad: Elan SMBus
@@ -33,6 +33,7 @@ Follow the "Downloading macOS" section in the Dortania guide to get macOS. ***Su
 - Wi-Fi: Intel Wireless-AC 8265
 - Ethernet: Intel I219-LM
 - SSD: Samsung SSD 980 1TB
+- Display: 14inch, 2k, IPS
 
 ## Set BIOS settings as follows
 - Config -> Network -> Wake On LAN -> Disabled
