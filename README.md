@@ -1,5 +1,16 @@
-# thinkpad-t480s-hackintosh-opencore
+# Thinkpad-t480s-hackintosh-opencore
 
+
+## Result
+
+About system:
+![image1](./Images/image1.png)
+
+Dual Screen:
+
+![image2](./Images/image2.png)
+
+## Note
 This repo base on:
 https://github.com/Lost-Entrepreneur439/thinkpad-t480s-hackintosh
 
@@ -13,7 +24,7 @@ This is a macOS EFI for the Lenovo ThinkPad T480s, with support for Intel Wi-Fi 
 
 Follow the "Downloading macOS" section in the Dortania guide to get macOS. ***Support will not be offered if you get macOS from any other source.*** https://dortania.github.io/OpenCore-Install-Guide/installer-guide/windows-install.html#downloading-macos. After installing macOS, you will need to disable force clicking, as by default macOS will register all clicks as force clicks (System Settings -> Trackpad -> Uncheck "Force Click and haptic feedback")
 
-# Specs of my specific unit:
+## Specs of my specific unit
 - CPU: Intel Core i7-8350u
 - GPU: Intel UHD Graphics 620
 - RAM: 24GB (8GB + 16GB)
@@ -23,7 +34,7 @@ Follow the "Downloading macOS" section in the Dortania guide to get macOS. ***Su
 - Ethernet: Intel I219-LM
 - SSD: Samsung SSD 980 1TB
 
-# Set BIOS settings as follows
+## Set BIOS settings as follows
 - Config -> Network -> Wake On LAN -> Disabled
 - Config -> Network -> Wake On LAN from Dock -> Disabled
 - Config -> CPU -> Intel (R) Hyper-Threading Technology -> Enabled
@@ -35,13 +46,13 @@ Follow the "Downloading macOS" section in the Dortania guide to get macOS. ***Su
 - Startup -> UEFI/Legacy Boot -> UEFI Only
 - Startup -> CSM Support -> No
 
-# Reference
+## Reference
 
 https://github.com/Lost-Entrepreneur439/thinkpad-t480s-hackintosh
 
 Thanks: Lost-Entrepreneur439 and Sang Nguyen
 
-# Credits
+## Credits
 - [Acidanthera](https://github.com/acidanthera) -- Made OpenCore, AppleALC, BlueToolFixup, BrightnessKeys, IntelMausi, Lilu, NVMeFix, SMCBatteryManager, SMCProcessor, SMCSuperIO, VirtualSMC, VoodooPS2Controller and WhateverGreen
 - [OpenIntelWireless](https://github.com/OpenIntelWireless) -- Made Airportitlwm, IntelBluetoothFirmware and IntelBTPatcher
 - [Avery Black](https://github.com/1Revenger1) -- Made ECEnabler
