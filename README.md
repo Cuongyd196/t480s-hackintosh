@@ -1,11 +1,10 @@
 # Thinkpad-t480s-hackintosh-opencore
 
-## ⭐️ If you like this Repo, give it a star on GitHub! ⭐️
 
 ## Some folder in this repo:
 
 ```
-- Sonoma-BCM94360NG: EFI for Sonoma ThinkPad T480s Card wifi BCM94352Z
+- Sonoma-BCM94360NG: EFI for Sonoma ThinkPad T480s Card wifi BCM94360NG
     * FULL WORKING: Wifi, Bluetooth, Airdrop, Handoff, Sidecar...
 
 - Sonoma: EFI for Sonoma ThinkPad T480s Card wifi Intel 8265
@@ -81,3 +80,5 @@ Thanks: Lost-Entrepreneur439, Van Hung Nguyen and Sang Nguyen
 - [dortania](https://github.com/dortania) -- Made the OpenCore Install Guide which was used to make this EFI.
 - [Mohamed A. Salah](https://github.com/m4salah) -- Made another T480s EFI which I used a part from to fix mine not working.
 - [ellnic](https://github.com/ellnic) -- Helped me fix Linux dualbooting
+
+## ⭐️ If you like this Repo, give it a star on GitHub! ⭐️
