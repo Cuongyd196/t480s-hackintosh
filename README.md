@@ -1,6 +1,18 @@
 # Thinkpad-t480s-hackintosh-opencore
 
+## Some folder in this repo:
 
+```
+- Sonoma-BCM94360NG: EFI for Sonoma ThinkPad T480s Card wifi BCM94352Z
+    * FULL WORKING: Wifi, Bluetooth, Airdrop, Handoff, Sidecar...
+
+- Sonoma: EFI for Sonoma ThinkPad T480s Card wifi Intel 8265
+
+- Ventura: EFI for Ventura ThinkPad T480s Card wifi Intel 8265
+
+ 
+
+```
 ## Result
 
 About system:
@@ -9,6 +21,11 @@ About system:
 Dual Screen:
 
 ![image2](./Images/image2.png)
+
+Sidecar With ipad:
+
+![image3](./Images/image3.png)
+
 
 ## Note
 This repo base on:
