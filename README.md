@@ -1,5 +1,7 @@
 # Thinkpad-t480s-hackintosh-opencore
 
+# ⭐️ If you like this Repo, give it a star on GitHub! ⭐️
+
 ## Some folder in this repo:
 
 ```
