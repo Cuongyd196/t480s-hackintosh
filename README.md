@@ -1,6 +1,6 @@
 # Thinkpad-t480s-hackintosh-opencore
 
-# ⭐️ If you like this Repo, give it a star on GitHub! ⭐️
+## ⭐️ If you like this Repo, give it a star on GitHub! ⭐️
 
 ## Some folder in this repo:
 
@@ -11,9 +11,6 @@
 - Sonoma: EFI for Sonoma ThinkPad T480s Card wifi Intel 8265
 
 - Ventura: EFI for Ventura ThinkPad T480s Card wifi Intel 8265
-
- 
-
 ```
 ## Result
 
