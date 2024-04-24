@@ -68,7 +68,7 @@ Follow the "Downloading macOS" section in the Dortania guide to get macOS. ***Su
 
 https://github.com/Lost-Entrepreneur439/thinkpad-t480s-hackintosh
 
-Thanks: Lost-Entrepreneur439 and Sang Nguyen
+Thanks: Lost-Entrepreneur439, Van Hung Nguyen and Sang Nguyen
 
 ## Credits
 - [Acidanthera](https://github.com/acidanthera) -- Made OpenCore, AppleALC, BlueToolFixup, BrightnessKeys, IntelMausi, Lilu, NVMeFix, SMCBatteryManager, SMCProcessor, SMCSuperIO, VirtualSMC, VoodooPS2Controller and WhateverGreen
